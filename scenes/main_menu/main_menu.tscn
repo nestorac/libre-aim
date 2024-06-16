@@ -130,6 +130,7 @@ expand_mode = 1
 [node name="Play" type="Button" parent="LeftControl/VBoxContainer"]
 layout_mode = 2
 mouse_default_cursor_shape = 2
+toggle_mode = true
 text = "Play"
 icon = ExtResource("2_n3hsc")
 alignment = 0

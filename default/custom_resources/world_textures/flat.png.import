@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://driiesvyeknwv"
 path.s3tc="res://.godot/imported/flat.png-187d379e2361b719ea04ed5366fdc786.s3tc.ctex"
+path.etc2="res://.godot/imported/flat.png-187d379e2361b719ea04ed5366fdc786.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://default/custom_resources/world_textures/flat.png"
-dest_files=["res://.godot/imported/flat.png-187d379e2361b719ea04ed5366fdc786.s3tc.ctex"]
+dest_files=["res://.godot/imported/flat.png-187d379e2361b719ea04ed5366fdc786.s3tc.ctex", "res://.godot/imported/flat.png-187d379e2361b719ea04ed5366fdc786.etc2.ctex"]
 
 [params]
 

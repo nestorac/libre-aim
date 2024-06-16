@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqospwtedgwrg"
 path.s3tc="res://.godot/imported/hole.png-d9ed514af341dcdf1e4f38a2db14165a.s3tc.ctex"
+path.etc2="res://.godot/imported/hole.png-d9ed514af341dcdf1e4f38a2db14165a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/images/hole.png"
-dest_files=["res://.godot/imported/hole.png-d9ed514af341dcdf1e4f38a2db14165a.s3tc.ctex"]
+dest_files=["res://.godot/imported/hole.png-d9ed514af341dcdf1e4f38a2db14165a.s3tc.ctex", "res://.godot/imported/hole.png-d9ed514af341dcdf1e4f38a2db14165a.etc2.ctex"]
 
 [params]
 
